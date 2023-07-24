@@ -1,0 +1,14 @@
+{
+  "name": "mmm-rain-forecast",
+  "version": "2.3.0",
+  "description": "A MagicMirror module forecast rain in the Netherlands",
+  "main": "MMM-rain-forecast.js",
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "rain"
+  ],
+  "dependencies": {
+    "request": "latest"
+  }
+}
